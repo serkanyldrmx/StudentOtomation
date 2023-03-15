@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentOtomation.comsole/1.0.0": {
+        "dependencies": {
+          "StudentOtomation.Core": "1.0.0",
+          "StudentOtomation.Type": "1.0.0"
+        },
+        "runtime": {
+          "StudentOtomation.comsole.dll": {}
+        }
+      },
+      "StudentOtomation.Core/1.0.0": {
+        "dependencies": {
+          "StudentOtomation.Type": "1.0.0"
+        },
+        "runtime": {
+          "StudentOtomation.Core.dll": {}
+        }
+      },
+      "StudentOtomation.Type/1.0.0": {
+        "runtime": {
+          "StudentOtomation.Type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentOtomation.comsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentOtomation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentOtomation.Type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

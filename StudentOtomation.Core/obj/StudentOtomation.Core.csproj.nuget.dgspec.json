@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Core/StudentOtomation.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Core/StudentOtomation.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Core/StudentOtomation.Core.csproj",
+        "projectName": "StudentOtomation.Core",
+        "projectPath": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Core/StudentOtomation.Core.csproj",
+        "packagesPath": "/Users/serkanyildirim/.nuget/packages/",
+        "outputPath": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/serkanyildirim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/StudentOtomation.Type.csproj": {
+                "projectPath": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/StudentOtomation.Type.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/StudentOtomation.Type.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/StudentOtomation.Type.csproj",
+        "projectName": "StudentOtomation.Type",
+        "projectPath": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/StudentOtomation.Type.csproj",
+        "packagesPath": "/Users/serkanyildirim/.nuget/packages/",
+        "outputPath": "/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/serkanyildirim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/bin/Debug/net6.0/StudentOtomation.Type.deps.json
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/bin/Debug/net6.0/StudentOtomation.Type.dll
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/bin/Debug/net6.0/StudentOtomation.Type.pdb
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.csproj.AssemblyReference.cache
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.AssemblyInfoInputs.cache
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.AssemblyInfo.cs
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.csproj.CoreCompileInputs.cache
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.dll
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/refint/StudentOtomation.Type.dll
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/StudentOtomation.Type.pdb
+/Users/serkanyildirim/Projects/StudentOtomation/StudentOtomation.Type/obj/Debug/net6.0/ref/StudentOtomation.Type.dll
